@@ -1,0 +1,13 @@
+{
+  "name": "bridge-ui",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/bridge-ui/bridge-ui",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
